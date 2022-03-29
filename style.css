@@ -246,7 +246,7 @@ hr {
         padding: 30px;
         opacity: .9; 
         transform: translateX(-400px);
-        transition: transform .5s ease-in-out;
+        transition: transform .5s;
     }
 
     .nav-main ul.nav-menu.show {
